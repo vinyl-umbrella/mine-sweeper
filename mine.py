@@ -4,7 +4,7 @@ import time
 
 row_num=10       # row
 column_num=10    # column
-bomb_num=100     # number of bombs
+bomb_num=10     # number of bombs
 
 class MainWindow:
     def __init__(self):
