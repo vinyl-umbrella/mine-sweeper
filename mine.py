@@ -2,9 +2,9 @@ from tkinter import *
 import random
 import time
 
-row_num=5       # row
-column_num=5    # column
-bomb_num=20     # number of bombs
+row_num=10       # row
+column_num=10    # column
+bomb_num=100     # number of bombs
 
 class MainWindow:
     def __init__(self):
