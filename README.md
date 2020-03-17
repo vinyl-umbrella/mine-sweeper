@@ -1,6 +1,6 @@
 # mine-sweeper
 
-This program is mine sweeper with python3. I used GUI library as tkinter.
+This program is mine sweeper with python3. I used tkinter as a GUI library.
 
 <img src="./img/sample.png" width="320px">
 
