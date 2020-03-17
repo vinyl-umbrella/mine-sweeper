@@ -2,7 +2,7 @@
 
 This program is mine sweeper with python3. I used GUI library as tkinter.
 
-![sample image](./img/sample.png)
+<img src="./img/sample.png" width="320px">
 
 I recommend using krungthep font ([here](http://fonts3.com/fonts/k/Krungthep.html "donwload page")).
 
